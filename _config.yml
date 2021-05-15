@@ -1,11 +1,11 @@
 # Site settings
 author: Devin Wilson
-title: 1st CLI Application
+title: The Code Road
 header-img: img/home-bg.png
 email: craigvin84@yahoo.com
 copyright_name: Devin Wilson
 description: > # this means to ignore newlines until "baseurl:"
-  Corona Virus Counter
+  Always looking for a better way
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  RSon84
